@@ -9,7 +9,6 @@
 - 🔍 Search and filter available rides
 - 📍 Real-time location tracking
 - 🤝 Match with verified carpoolers
-- 💬 In-app chat for coordination
 - 🔒 Secure login and authentication
 - 🧠 AI-based route & preference matching *(Upcoming)*
 
@@ -17,9 +16,9 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** Kotlin, Jetpack Compose
-- **Backend:** Firebase, Node.js *(Optional)*
-- **Database:** Firebase Firestore
+- **Frontend:** React
+- **Backend:** Node.js + Express
+- **Database:** MongoDB
 - **Map & Location:** Google Maps API
 - **Authentication:** Firebase Auth
 
@@ -30,5 +29,5 @@
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/GoTogether.git
+git clone https://github.com/VasudhaMurthy/GoTogether.git
 cd GoTogether
