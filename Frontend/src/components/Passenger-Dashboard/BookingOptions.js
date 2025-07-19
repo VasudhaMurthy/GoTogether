@@ -41,7 +41,7 @@ import rapidoLogo from '../../Assets/rapido-logo.png';
 const BookingOptions = () => {
   return (
       <div className="booking-options-container">
-      <h2>Choose Your Ride</h2>
+      <h2>Pick Your Power Move</h2>
       <div className="booking-grid">
         <a href="https://book.olacabs.com/" target="_blank" rel="noopener noreferrer" className="booking-option">
           <img src={olaLogo} alt="Ola Logo" className="booking-logo" />
